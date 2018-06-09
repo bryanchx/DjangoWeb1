@@ -1,2 +1,2 @@
-# sunck
+# django
 python Django sample
